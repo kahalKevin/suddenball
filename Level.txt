@@ -1,0 +1,9 @@
+BallPointStart = 1000
+*10Ball = 10000   RangeBall = 100 - 500 
+> 10000			BallPoint = 1128		Slider = 0.15 *15Ball   RangeBall = 100 - 400
+> 25000			BallPoint = 4121		Slider = 0.2 *7Ball 	RangeBall = 100 - 400
+> 50000			BallPoint = 8363		Slider = 0.25 *8Ball    RangeBall = 100 - 370
+> 110000		BallPoint = 15362		Slider = 0.29 *20Ball   RangeBall = 100 - 300 
+> 410000		BallPoint = 17523       Slider = 0.32 *20Ball   RangeBall = 100 - 200
+> 750000        BallPoint = 21159 		Slider = 0.36 *15Ball	RangeBall = 100 - 200
+> 1000000		BallPoint = 32716		Slider = 0.4			RangeBall = 100 - 180
